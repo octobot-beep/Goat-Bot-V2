@@ -40,9 +40,9 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
+			"email": "octobotai@gmail.com",
+			"clientId": "87915556468-0ecr9qhmj74o44hs4m8o6ddaivp60gr0.apps.googleusercontent.com",
+			"clientSecret": "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",
 			"refreshToken": "",
 			"apiKey": ""
 		},
